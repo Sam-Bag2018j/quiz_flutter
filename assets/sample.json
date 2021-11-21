@@ -1,0 +1,322 @@
+{
+  "items": [
+    {
+      "id": " Q1",
+      "name": "I'm 5 letters long, I'm palindrone",
+      "description": "and I mean woman",
+      "answer": "Madam",
+      "isShowing": false
+    },
+    {
+      "id": "Q2",
+      "name": "I'm 4 letters long, store data on me ",
+      "description": "I'm not a tech",
+      "answer": "Book",
+      "isShowing": false
+    },
+    {
+      "id": "Q3",
+      "name": "I'm 5 letters long verb, If you spell me backwords,",
+      "description": " I mean evil",
+      "answer": "Lived",
+      "isShowing": false
+    },
+    {
+      "id": "Q4",
+      "name": "Using the four letters below only, create a seven letter word.",
+      "description": "UMNI",
+      "answer": "MINIMUM",
+      "isShowing": false
+    },
+    {
+      "id": "Q5",
+      "name": "I can be hot, I can be cold, I can run and i can be still,",
+      "description": "I can be hard and I can be soft?",
+      "answer": "Water",
+      "isShowing": false
+    },
+    {
+      "id": "Q6",
+      "name": "I am an English word with five letters. If you remove my last four I am still pronounced the same. What am I?",
+      "description": " ",
+      "answer": "queue",
+      "isShowing": false
+    },
+    {
+      "id": "Q7",
+      "name": "I go in dry and come out wet, The longer I’m in,",
+      "description": "the stronger it will get.What am I?",
+      "answer": "TEA BAG",
+      "isShowing": false
+    },
+    {
+      "id": "Q8",
+      "name": " a word starts and ends with the same letter. Can you figure out what the word is?",
+      "description": "   _rus_",
+      "answer": "trust",
+      "isShowing": false
+    },
+    {
+      "id": "Q9",
+      "name": "I am a bird, I am a fruit and I am a person. What am I?",
+      "description": " ",
+      "answer": "KIWI",
+      "isShowing": false
+    },
+    {
+      "id": "Q10",
+      "name": "I jump when I walk and sit when I stand. What am I?",
+      "description": " ",
+      "answer": "KANGAROO",
+      "isShowing": false
+    },
+    {
+      "id": "Q11",
+      "name": "What is always coming but never arrives?",
+      "description": " ",
+      "answer": "Tomorrow",
+      "isShowing": false
+    },
+    {
+      "id": "Q12",
+      "name": "I am an English word which starts with 'T' and ends with 'T' and has 'T' in it.",
+      "description": " ",
+      "answer": "Tea Pot",
+      "isShowing": false
+    },
+    {
+      "id": "Q13",
+      "name": "I have a mouth but never smiles?",
+      "description": " ",
+      "answer": "Bottle",
+      "isShowing": false
+    },
+    {
+      "id": "Q14",
+      "name": "The shorter I'm, the bigger I'm.",
+      "description": "",
+      "answer": "Temper",
+      "isShowing": false
+    },
+    {
+      "id": "Q15",
+      "name": "Which vehicle is spelled the same forwards and backwards?",
+      "description": " ",
+      "answer": "Racecar",
+      "isShowing": false
+    },
+    {
+      "id": "Q16",
+      "name": "I'm orange, and sounds like a prrot, What am I?",
+      "description": " ",
+      "answer": "Carrot",
+      "isShowing": false
+    },
+    {
+      "id": "Q517",
+      "name": " an English word of more than 2 letters that both begins and ends with the letters 'he' in that order.",
+      "description": " ",
+      "answer": "headache or heartache",
+      "isShowing": false
+    },
+    {
+      "id": "Q18",
+      "name": " What is black when you buy it from the market, red when you use it, and grey when you throw it away?",
+      "description": " ",
+      "answer": "Charcoal",
+      "isShowing": false
+    },
+    {
+      "id": "Q19",
+      "name": "What has to be broken before you can use or eat it?",
+      "description": " ",
+      "answer": "Egg",
+      "isShowing": false
+    },
+    {
+      "id": "Q20",
+      "name": "What word begins and ends with an E but only has one letter?",
+      "description": " ",
+      "answer": "Envelope",
+      "isShowing": false
+    },
+    {
+      "id": "Q21",
+      "name": "You can take off my skin I'll not cry but you'll cry what am i?",
+      "description": " ",
+      "answer": "Onion",
+      "isShowing": false
+    },
+    {
+      "id": "Q22",
+      "name": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+      "description": " ",
+      "answer": "A CANDLE",
+      "isShowing": false
+    },
+    {
+      "id": "Q23",
+      "name": " People make me, save me, change me, raise me. What am I?",
+      "description": " ",
+      "answer": "Money",
+      "isShowing": false
+    },
+    {
+      "id": "Q24",
+      "name": " I have lakes with no water, mountains with no stone and cities with no buildings. What am I?",
+      "description": " ",
+      "answer": "Map",
+      "isShowing": false
+    },
+    {
+      "id": "Q25",
+      "name": "If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+      "description": " ",
+      "answer": "Mirror",
+      "isShowing": false
+    },
+    {
+      "id": "Q26",
+      "name": "What can fill a room but takes up no space?",
+      "description": " ",
+      "answer": "Light",
+      "isShowing": false
+    },
+    {
+      "id": "Q27",
+      "name": "What has words, but never speaks?",
+      "description": " ",
+      "answer": "Book",
+      "isShowing": false
+    },
+    {
+      "id": "Q28",
+      "name": "What has many teeth, but can’t bite?",
+      "description": " ",
+      "answer": "Comb",
+      "isShowing": false
+    },
+    {
+      "id": "Q29",
+      "name": " It belongs to you, but other people use it more than you do. What is it?",
+      "description": " ",
+      "answer": "Your name",
+      "isShowing": false
+    },
+    {
+      "id": "Q30",
+      "name": " I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?",
+      "description": " ",
+      "answer": "Your breath",
+      "isShowing": false
+    },
+    {
+      "id": "Q31",
+      "name": "What gets bigger when more is taken away?",
+      "description": " ",
+      "answer": "Hole",
+      "isShowing": false
+    },
+    {
+      "id": "Q32",
+      "name": "What is black when it’s clean and white when it’s dirty?",
+      "description": " ",
+      "answer": "Chalkboard",
+      "isShowing": false
+    },
+    {
+      "id": "Q33",
+      "name": "What has many keys but can’t open a single lock?",
+      "description": " ",
+      "answer": "Piano",
+      "isShowing": false
+    },
+    {
+      "id": "Q34",
+      "name": "The more of this there is, the less you see. What is it?",
+      "description": " ",
+      "answer": "Darkness",
+      "isShowing": false
+    },
+    {
+      "id": "Q35",
+      "name": "What is full of holes but still holds water?",
+      "description": " ",
+      "answer": "Sponge",
+      "isShowing": false
+    }
+  ],
+  "items_hard": [
+    {
+      "id": "Q1",
+      "name": "A word that starts with 'M' and it describes the most precious relation of everyone's life.",
+      "description": "",
+      "answer": "Mother",
+      "isShowing": false
+    },
+    {
+      "id": "Q2",
+      "name": "A word that starts with 'F'and ending with 'E' and is pleasant to one of our sense organ.",
+      "description": "",
+      "answer": "Fragnance",
+      "isShowing": false
+    },
+    {
+      "id": "Q3",
+      "name": "A word that starts with 'D' and ending with 'H' and has three 'same' vowels.",
+      "description": "",
+      "answer": "Diminish",
+      "isShowing": false
+    },
+    {
+      "id": "Q4",
+      "name": "A word that describes the amount of water vapour in the air. ",
+      "description": "",
+      "answer": "Humidity",
+      "isShowing": false
+    },
+    {
+      "id": "Q5",
+      "name": "A word with seven letter English word. I am heavy. If you take two away,",
+      "description": "I am left with eight",
+      "answer": "Weights",
+      "isShowing": false
+    },
+    {
+      "id": "Q6",
+      "name": "A word with six letters, letters 2,4 and 6 are the same.  If you jump 7 letters from 1ST letter, you get the 3RD letter, and if you jump 7 letters again from the 3RD you get the 5TH letter ",
+      "description": "",
+      "answer": "Delete",
+      "isShowing": false
+    },
+    {
+      "id": "Q7",
+      "name": "A word with 6 letters, letters 6,5, and 2 spell out a drink, letters 4,5,2,and 3 spell out a fruit, letters 1,2,and 6 sell out a pet",
+      "description": "Letters 3,2,and 6 sell out a pest which often gets eaten by 1,2 and 6",
+      "answer": "Carpet",
+      "isShowing": false
+    },
+    {
+      "id": "Q8",
+      "name": "A word with 6 letters, first 3 letters indicate one of the biggest thing in the world, letters 2,3,4 indicate parts of huma n body",
+      "description": "Letters 3,4,5 indicate part of circle whole word is the key of internet now",
+      "answer": "Search",
+      "isShowing": false
+    },
+    {
+      "id": "Q9",
+      "name": "A word with 6 letters, first 4 letters is me, letters 2 and 6 are the same, 1,2,6 means look.",
+      "description": "4,6,2 means type of payment",
+      "answer": "Selfie",
+      "isShowing": false
+    },
+    {
+      "id": "Q10",
+      "name": "A word with 8 letters, first 4 letters is Question, letters 2,3,4 protects from heat",
+      "description": "Letters 5,6,7 is s liquid in tree",
+      "answer": "Whatsapp  ",
+      "isShowing": false
+    }
+     
+  ]
+}
